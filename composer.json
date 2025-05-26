@@ -1,5 +1,5 @@
 {
-  "name": "docpublish",
+  "name": "0x0e4/docpublish",
   "description": "This is tool for automated publishing documents of your company",
     "require": {
         "phpoffice/phpword": "^1.3",
