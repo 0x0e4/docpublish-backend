@@ -1,6 +1,7 @@
 {
   "name": "0x0e4/docpublish",
   "description": "This is tool for automated publishing documents of your company",
+  "license": "GPL-3.0-only",
     "require": {
         "phpoffice/phpword": "^1.3",
         "pclzip/pclzip": "^2.8",
